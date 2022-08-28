@@ -1,9 +1,14 @@
 ### Personal Information:
 **Name:** Developer X
+
 **Age:** 17
+
 **Country:** 🇵🇰 Pakistan
+
 **Interests:** Programming, Gaming, Listening Music
+
 **Hobbies:** Freelancer, Discord Bot Developer
+
 **Occupasion:** Student
 ****
 ### Projects:
@@ -18,7 +23,6 @@
 ### Contact:
 **Discord:** Developer X#0001
 **E-Mail:** computer.tech.yt@gmail.com
-
 <!---
 ComputerTech77/ComputerTech77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
